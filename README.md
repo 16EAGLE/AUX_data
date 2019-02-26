@@ -1,2 +1,2 @@
 # AUX_data
-Auxiliary package data for 16eagle repositories
+Auxiliary package data for all my repositories (mostly graphics)...
